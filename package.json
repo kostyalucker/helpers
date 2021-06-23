@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/rob3n/helpers#readme",
   "devDependencies": {
+    "@types/jest": "^26.0.23",
     "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "sinon": "^11.1.1"
   }
 }
